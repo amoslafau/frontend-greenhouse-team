@@ -7,7 +7,7 @@
             <q-item>
               <q-item-section class="text-center q-mb-xs">
                 <q-item-label style="font-family:customfont;" class="text-h4 text-teal-10 text-bold">Green House UBL</q-item-label>
-                <q-item-label caption class="text-white">Halaman Login Green House</q-item-label>
+                <q-item-label caption class="text-white">Amos</q-item-label>
               </q-item-section>
             </q-item>
             <q-card class="row">
